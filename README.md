@@ -20,7 +20,7 @@ To transform raw election data into interactive visual dashboards and provide in
 - Prashanta Upadhyay  
 
 ## 👩‍🏫 Mentor
-Ms. Nithyasri S J
+Mrs. Nithyasri S J
 
 ## 📈 Key Insights
 - NDA secured the highest seats and vote share.  
