@@ -1,5 +1,5 @@
 # ElectViz-Election-data-visualization-for-Media
-This repository contains my Power BI internship project on ElectViz Election Data VisualiZation For Media
+This repository contains our Power BI internship project on ElectViz Election Data VisualiZation For Media
 # Election Data Analysis using Power BI
 
 ## 📊 Overview
@@ -31,6 +31,9 @@ Mrs. Nithyasri S J
 - `internship_completion_Report.pdf`
 - `ElectViz Project.pbix`
 - `gropu ppt.pptx`
+- Prashanta upadhyay ppt.pptx
+- Oshin Paul ppt.pptx
+- Atul Parashar ppt.pptx
 
 ## 🏁 Conclusion
 This project demonstrates how data visualization can simplify complex electoral information and present it in a meaningful way.
